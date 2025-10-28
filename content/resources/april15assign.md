@@ -2,6 +2,7 @@
 content_type: resource
 description: Policy memo assignment.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/d41a945d0d414749b8e4330465d731b9_april15assign.pdf
+file_size: 10157
 file_type: application/pdf
 learning_resource_types:
 - Assignments

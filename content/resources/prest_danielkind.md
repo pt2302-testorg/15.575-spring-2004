@@ -3,6 +3,7 @@ content_type: resource
 description: This resource deals with the case study on the offering, e-business,
   and information technology.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/f74b1861668d12df3b39c41984412b5e_prest_danielkind.pdf
+file_size: 23969
 file_type: application/pdf
 learning_resource_types:
 - Projects

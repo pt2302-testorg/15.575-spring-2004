@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation covering the problems associated with online transactions.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/cf64598d0c47b912ec7dee7d938b91b4_tanu.pdf
+file_size: 325072
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

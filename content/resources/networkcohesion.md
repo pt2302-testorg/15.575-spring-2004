@@ -3,6 +3,7 @@ content_type: resource
 description: Sample student project presentation. Courtesy of David Dreyfus. Used
   with permission.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/e4120f15071cb694dc0f6564ec87f265_networkcohesion.pdf
+file_size: 126969
 file_type: application/pdf
 learning_resource_types:
 - Projects

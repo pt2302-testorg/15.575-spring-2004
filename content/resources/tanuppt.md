@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource deals with the problems in online transactions.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/a696e4ffe1e05e4935cfd68b7cdcb460_tanuppt.pdf
+file_size: 682196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

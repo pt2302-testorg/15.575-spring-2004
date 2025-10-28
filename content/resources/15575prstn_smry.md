@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation covering frictionless commerce on internet.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/c76521adb377bc13e4738064cf33671c_15575prstn_smry.pdf
+file_size: 59011
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains productivity, business profitability and consumer
   surplus which are maesures of information technology.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/e575ed258089cee08a5943aaaf2bae67_itdoesmatterv3.pdf
+file_size: 83487
 file_type: application/pdf
 learning_resource_types:
 - Projects

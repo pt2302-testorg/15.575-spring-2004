@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the theory of making markets through internet.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/fa9de1809be9ab8f2f736d13559d3ffb_class_slides.pdf
+file_size: 92767
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

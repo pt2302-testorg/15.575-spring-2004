@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides reading guide on search and competition I.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/e659422df7d15dc515ec75b7c72d7a78_feb19.pdf
+file_size: 13789
 file_type: application/pdf
 learning_resource_types:
 - Readings

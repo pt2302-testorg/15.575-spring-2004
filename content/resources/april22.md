@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the readings on incomplete contracts and firm
   boundaries.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/7b4f2e5f5aaad5a310a64472f2310b9a_april22.pdf
+file_size: 13621
 file_type: application/pdf
 learning_resource_types:
 - Readings

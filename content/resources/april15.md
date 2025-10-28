@@ -2,6 +2,7 @@
 content_type: resource
 description: Study questions associated with the week's reading assignment.
 file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/ba7c705080e6b27f4a1a3e8444425bfb_april15.pdf
+file_size: 61931
 file_type: application/pdf
 learning_resource_types:
 - Readings
